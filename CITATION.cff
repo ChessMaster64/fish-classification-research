@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Citation metadata describes the research release; author and publication metadata were not available in the audited project."
+type: software
+title: "Tensor Decomposition Based Compression of a Deep Interleaved ResNet50–Vision Transformer–Graph Neural Network for Fish Species Classification"
+version: "0.1.0"

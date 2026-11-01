@@ -1,0 +1,40 @@
+# Local data and generated artifacts
+fish4knowledge/
+data/
+ml/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.safetensors
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Results and local runtime state
+research/logs/
+*.log
+results/reproduction_run/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.local

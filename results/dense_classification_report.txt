@@ -1,0 +1,29 @@
+                              precision    recall  f1-score   support
+
+    01_Dascyllus_reticulatus       0.98      0.99      0.99       543
+02_plectroglyphidodon_dickii       1.00      1.00      1.00       152
+         03_Chromis_chrysura       0.99      0.98      0.99       191
+       04_Amphiprion_clarkii       1.00      0.99      1.00       195
+      05_chaetodon_lunulatus       1.00      1.00      1.00       105
+     06_chaetodon_trifascial       1.00      0.92      0.96        12
+       07_myripristis_kuntee       0.83      1.00      0.91         5
+   08_Acanthurus_nigrofuscus       0.87      0.93      0.90        14
+     09_hemigymnus_fasciatus       1.00      1.00      1.00        14
+        10_Neoniphon_sammara       1.00      1.00      1.00        17
+     11_Abudefduf_vaigiensis       1.00      1.00      1.00         4
+    12_cathigaster_valentini       0.50      1.00      0.67         3
+  13_pomacentrus_moluccensis       1.00      1.00      1.00        30
+         14_Zebrasoma_scopas       1.00      0.75      0.86         8
+    15_hemigymnus_melapterus       1.00      1.00      1.00         4
+          16_lutjanus_fulvus       1.00      1.00      1.00         1
+      17_Scolopsis_bilineata       0.00      0.00      0.00         0
+                 18_Scaridae       1.00      0.50      0.67        10
+   19_pempheris_vanicolensis       0.50      1.00      0.67         1
+         20_Zanclus_cornutus       0.00      0.00      0.00         3
+    21_neoglyphidon_nigroris       0.00      0.00      0.00         0
+     22_balistapus_undulatus       0.33      1.00      0.50         1
+        23_siganus_fuscescen       0.00      0.00      0.00         0
+
+                    accuracy                           0.99      1313
+                   macro avg       0.74      0.79      0.74      1313
+                weighted avg       0.99      0.99      0.98      1313
